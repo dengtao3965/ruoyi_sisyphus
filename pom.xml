@@ -34,7 +34,9 @@
     <!-- 依赖声明 -->
     <dependencyManagement>
         <dependencies>
-        
+            <!-- flowable的依赖配置-->
+
+
             <!-- SpringBoot的依赖配置-->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
